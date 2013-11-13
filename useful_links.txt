@@ -1,1 +1,2 @@
 https://www.fpcomplete.com/user/FPguy/DevBeat2013
+http://www.imada.sdu.dk/~rolf/Edu/DM22/F06/haskell-operatorer.pdf
